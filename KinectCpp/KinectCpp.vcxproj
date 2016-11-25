@@ -89,7 +89,7 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>D:\GitJON\_Libraries\DxLib_VC\ForVCfiles;D:\GitJON\_Libraries\KinectSDKforDxLib_v1.0;C:\Program Files\Microsoft SDKs\Kinect\v1.8\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\_Libraries\DxLib_VC\ForVCfiles;..\..\_Libraries\KinectSDKforDxLib_v1.0;C:\Program Files\Microsoft SDKs\Kinect\v1.8\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
     </ClCompile>
     <Link>
